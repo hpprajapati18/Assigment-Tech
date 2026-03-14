@@ -1,0 +1,22 @@
+body
+{
+font-family: Arial;
+background:#f4f4f4;
+}
+
+header
+{
+margin-bottom:20px;
+}
+
+.error
+{
+color:red;
+font-size:14px;
+}
+
+#success
+{
+margin-top:10px;
+font-weight:bold;
+}
